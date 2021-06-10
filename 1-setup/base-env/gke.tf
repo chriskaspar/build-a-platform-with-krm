@@ -5,7 +5,7 @@
 
 # Each GKE cluster will have 4 nodes. 
 variable "gke_num_nodes" {
-  default     = 4
+  default     = 1
   description = "number of gke nodes"
 }
 
