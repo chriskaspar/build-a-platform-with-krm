@@ -1,5 +1,5 @@
-github_token = "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"
-github_username = "chriskaspar"
+github_token = ""
+github_username = ""
 github_email = "ck@gmail.com"
 project_id = "ckmckrm"
 project_number = "1001044631911"
